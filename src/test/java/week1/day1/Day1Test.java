@@ -1,11 +1,13 @@
-import dev.vinisantosn.week1.NumberOutOfRangeException;
+package week1.day1;
+
+import dev.vinisantosn.week1.day1.NumberOutOfRangeException;
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
 
 import java.util.Optional;
 
-import static dev.vinisantosn.week1.Day1.CalcAge;
+import static dev.vinisantosn.week1.day1.Day1.CalcAge;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Day1Test {

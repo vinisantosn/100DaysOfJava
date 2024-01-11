@@ -1,4 +1,4 @@
-package dev.vinisantosn.week1;
+package dev.vinisantosn.week1.day1;
 
 /**
  * @author vinisantosn
